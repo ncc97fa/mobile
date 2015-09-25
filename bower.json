@@ -1,0 +1,29 @@
+{
+  "name": "mobile",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ncc97fa/mobile",
+  "description": "ryan mobile",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "authors": [
+    "ryan"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Git": "C:\\Program Files (x86)\\Git",
+    "jquery": "~2.1.4",
+    "knockout": "~3.3.0",
+    "bootstrap": "~3.3.5"
+  }
+}

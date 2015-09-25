@@ -1,0 +1,13 @@
+{
+    "name": "meto moblie",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ncc97fa/mobile.git"
+    },
+    "version": "0.0.0",
+    "author": "dingdingmao",
+    "dependencies": {},
+    "devDependencies": {
+        "coffee-loader": "*"
+    }
+}
